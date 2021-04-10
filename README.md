@@ -1,2 +1,3 @@
-# Monitorias
-codigo para las monitorias
+# GARBAGES
+
+repository for add randoms codes 

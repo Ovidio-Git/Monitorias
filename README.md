@@ -2,7 +2,7 @@
 
 repository for add randoms codes 
 
-# this repository have codes of 
+### This repository has codes for now from:
 
 - [x] Matlab
 - [x] C++

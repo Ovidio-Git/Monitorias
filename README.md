@@ -4,6 +4,6 @@ repository for add randoms codes
 
 # this repository have codes of 
 
-- [x] Mathlan
+- [x] Matlab
 - [x] C++
 - [X] Python
